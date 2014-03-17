@@ -1,7 +1,7 @@
 ###############################################
 #
 # Computing IC50 to compare drug potency
-# Code: courtesy of Fred Commo
+# Curve-fitting Package: courtesy of Fred Commo
 # Date: 2013/09/03
 #
 ###############################################
